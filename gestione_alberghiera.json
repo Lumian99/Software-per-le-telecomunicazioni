@@ -1,0 +1,179 @@
+{
+  "prenotazioni": [
+    {
+      "id": "2u768j41",
+      "nome": "Alex",
+      "cognome": "Bian",
+      "check_in": "2025-09-26T00:00:00",
+      "check_out": "2025-09-29T00:00:00",
+      "camera_numero": "101",
+      "camera_tipo": "Singola",
+      "camera_capacita": 1,
+      "camera_prezzo": 80,
+      "ospiti": 1,
+      "servizi": [
+        {
+          "nome": "Colazione",
+          "prezzo": 15
+        },
+        {
+          "nome": "WiFi",
+          "prezzo": 5
+        }
+      ],
+      "is_vip": false,
+      "codice_vip": "",
+      "vip_valid": false
+    },
+    {
+      "id": "a9c3d7e2",
+      "nome": "Luca",
+      "cognome": "Rossi",
+      "check_in": "2025-09-01T00:00:00",
+      "check_out": "2025-09-05T00:00:00",
+      "camera_numero": "202",
+      "camera_tipo": "Doppia",
+      "camera_capacita": 2,
+      "camera_prezzo": 120,
+      "ospiti": 2,
+      "servizi": [
+        {
+          "nome": "Colazione",
+          "prezzo": 30
+        },
+        {
+          "nome": "Parcheggio",
+          "prezzo": 10
+        }
+      ],
+      "is_vip": true,
+      "codice_vip": "VIP2025",
+      "vip_valid": true
+    },
+    {
+      "id": "f1e8b3a4",
+      "nome": "Giulia",
+      "cognome": "Verdi",
+      "check_in": "2025-09-10T00:00:00",
+      "check_out": "2025-09-12T00:00:00",
+      "camera_numero": "103",
+      "camera_tipo": "Singola",
+      "camera_capacita": 1,
+      "camera_prezzo": 80,
+      "ospiti": 1,
+      "servizi": [
+        {
+          "nome": "WiFi",
+          "prezzo": 5
+        }
+      ],
+      "is_vip": false,
+      "codice_vip": "",
+      "vip_valid": false
+    },
+    {
+      "id": "d7b2f6c9",
+      "nome": "Marco",
+      "cognome": "Neri",
+      "check_in": "2025-09-15T00:00:00",
+      "check_out": "2025-09-20T00:00:00",
+      "camera_numero": "302",
+      "camera_tipo": "Suite",
+      "camera_capacita": 4,
+      "camera_prezzo": 200,
+      "ospiti": 3,
+      "servizi": [
+        {
+          "nome": "Spa",
+          "prezzo": 50
+        },
+        {
+          "nome": "Colazione",
+          "prezzo": 45
+        },
+        {
+          "nome": "WiFi",
+          "prezzo": 10
+        }
+      ],
+      "is_vip": true,
+      "codice_vip": "VIP2025",
+      "vip_valid": true
+    },
+    {
+      "id": "e3a9c5d8",
+      "nome": "Sara",
+      "cognome": "Conti",
+      "check_in": "2025-09-22T00:00:00",
+      "check_out": "2025-09-25T00:00:00",
+      "camera_numero": "202",
+      "camera_tipo": "Doppia",
+      "camera_capacita": 2,
+      "camera_prezzo": 120,
+      "ospiti": 2,
+      "servizi": [
+        {
+          "nome": "Colazione",
+          "prezzo": 30
+        },
+        {
+          "nome": "Animali ammessi",
+          "prezzo": 20
+        }
+      ],
+      "is_vip": false,
+      "codice_vip": "",
+      "vip_valid": false
+    },
+    {
+      "id": "cb10b2ff",
+      "nome": "Alice",
+      "cognome": "Bianchi",
+      "check_in": "2025-08-25T00:00:00",
+      "check_out": "2025-08-28T00:00:00",
+      "camera_numero": "101",
+      "camera_tipo": "Singola",
+      "camera_capacita": 1,
+      "camera_prezzo": 80,
+      "ospiti": 1,
+      "servizi": [
+        {
+          "nome": "Colazione",
+          "prezzo": 15
+        },
+        {
+          "nome": "WiFi",
+          "prezzo": 5
+        }
+      ],
+      "is_vip": false,
+      "codice_vip": "",
+      "vip_valid": false
+    },
+    {
+      "id": "84f3b25d",
+      "nome": "test ",
+      "cognome": "finale ",
+      "check_in": "2025-09-22T00:00:00",
+      "check_out": "2025-09-28T00:00:00",
+      "camera_numero": "204",
+      "camera_tipo": "Doppia",
+      "camera_capacita": 2,
+      "camera_prezzo": 120,
+      "ospiti": 2,
+      "servizi": [
+        {
+          "nome": "Parcheggio",
+          "prezzo": 8
+        },
+        {
+          "nome": "SPA",
+          "prezzo": 35
+        }
+      ],
+      "is_vip": false,
+      "codice_vip": "",
+      "vip_valid": false
+    }
+  ]
+}
