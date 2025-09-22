@@ -1,0 +1,46 @@
+{
+  "richieste": {
+    "RIP20250906001": {
+      "id_richiesta": "RIP20250906001",
+      "pezzo": {
+        "id_pezzo": "PZ20250906001",
+        "nome": "kp 832",
+        "modello": "kp 832",
+        "numero_serie": "1926344",
+        "cliente": "Merani",
+        "data_creazione": "2025-09-06T20:14:43.157541"
+      },
+      "descrizione_problema": "tasti 1 e 3 rotti",
+      "tipo_intervento": "Riparazione",
+      "stato": "Ricevuto",
+      "priorita": "Alta",
+      "data_richiesta": "2025-09-06T20:13:14.927610",
+      "data_completamento": null,
+      "note_tecniche": [],
+      "costo_stimato": 0.0,
+      "costo_finale": 0.0,
+      "tecnico_assegnato": ""
+    },
+    "RIP20250906002": {
+      "id_richiesta": "RIP20250906002",
+      "pezzo": {
+        "id_pezzo": "PZ20250906002",
+        "nome": "pannello interfonico",
+        "modello": "kp 12",
+        "numero_serie": "4299443",
+        "cliente": "Cremonesi",
+        "data_creazione": "2025-09-06T20:17:09.102989"
+      },
+      "descrizione_problema": "non funziona l'audio della cuffia",
+      "tipo_intervento": "Ispezione",
+      "stato": "Ricevuto",
+      "priorita": "Bassa",
+      "data_richiesta": "2025-09-06T20:17:09.103010",
+      "data_completamento": null,
+      "note_tecniche": [],
+      "costo_stimato": 0.0,
+      "costo_finale": 0.0,
+      "tecnico_assegnato": ""
+    }
+  }
+}
